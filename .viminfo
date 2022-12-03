@@ -14,10 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1669992226,,"wq!"
 :qa
 |2,0,1669852293,,"qa"
-:wq!
-|2,0,1669852193,,"wq!"
 :ZZ
 |2,0,1669773677,,"ZZ"
 
@@ -34,26 +34,42 @@ $
 # Registers:
 
 # File marks:
-'0  3  15  ~/java.txt/java.txt
-|4,48,3,15,1669852393,"~/java.txt/java.txt"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1669852293,"~/.git/COMMIT_EDITMSG"
-'2  3  15  ~/java.txt/java.txt
-|4,50,3,15,1669852193,"~/java.txt/java.txt"
-'3  3  0  ~/text.txt
-|4,51,3,0,1669773767,"~/text.txt"
-'4  7  32  ~/app.java
-|4,52,7,32,1669773705,"~/app.java"
-'5  1  0  ~/app.java
-|4,53,1,0,1669773678,"~/app.java"
+'0  2  0  ~/.git/rebase-merge/git-rebase-todo
+|4,48,2,0,1669992226,"~/.git/rebase-merge/git-rebase-todo"
+'1  3  15  ~/java.txt/java.txt
+|4,49,3,15,1669852393,"~/java.txt/java.txt"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1669852293,"~/.git/COMMIT_EDITMSG"
+'3  3  15  ~/java.txt/java.txt
+|4,51,3,15,1669852193,"~/java.txt/java.txt"
+'4  3  0  ~/text.txt
+|4,52,3,0,1669773767,"~/text.txt"
+'5  7  32  ~/app.java
+|4,53,7,32,1669773705,"~/app.java"
+'6  1  0  ~/app.java
+|4,54,1,0,1669773678,"~/app.java"
 
 # Jumplist (newest first):
+-'  2  0  ~/.git/rebase-merge/git-rebase-todo
+|4,39,2,0,1669992226,"~/.git/rebase-merge/git-rebase-todo"
+-'  1  0  ~/.git/rebase-merge/git-rebase-todo
+|4,39,1,0,1669992180,"~/.git/rebase-merge/git-rebase-todo"
+-'  3  15  ~/java.txt/java.txt
+|4,39,3,15,1669852393,"~/java.txt/java.txt"
 -'  3  15  ~/java.txt/java.txt
 |4,39,3,15,1669852393,"~/java.txt/java.txt"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1669852293,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1669852293,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1669852293,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1669852293,"~/.git/COMMIT_EDITMSG"
+-'  3  15  ~/java.txt/java.txt
+|4,39,3,15,1669852193,"~/java.txt/java.txt"
+-'  3  15  ~/java.txt/java.txt
+|4,39,3,15,1669852193,"~/java.txt/java.txt"
 -'  3  15  ~/java.txt/java.txt
 |4,39,3,15,1669852193,"~/java.txt/java.txt"
 -'  3  15  ~/java.txt/java.txt
@@ -64,6 +80,12 @@ $
 |4,39,1,0,1669852088,"~/java.txt/java.txt"
 -'  1  0  ~/java.txt/java.txt
 |4,39,1,0,1669852088,"~/java.txt/java.txt"
+-'  1  0  ~/java.txt/java.txt
+|4,39,1,0,1669852088,"~/java.txt/java.txt"
+-'  1  0  ~/java.txt/java.txt
+|4,39,1,0,1669852088,"~/java.txt/java.txt"
+-'  1  0  ~/java.txt/java.txt
+|4,39,1,0,1669852088,"~/java.txt/java.txt"
 -'  3  0  ~/text.txt
 |4,39,3,0,1669773767,"~/text.txt"
 -'  3  0  ~/text.txt
@@ -80,6 +102,38 @@ $
 |4,39,3,0,1669773767,"~/text.txt"
 -'  3  0  ~/text.txt
 |4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  3  0  ~/text.txt
+|4,39,3,0,1669773767,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
+-'  1  0  ~/text.txt
+|4,39,1,0,1669773724,"~/text.txt"
 -'  1  0  ~/text.txt
 |4,39,1,0,1669773724,"~/text.txt"
 -'  1  0  ~/text.txt
@@ -128,6 +182,42 @@ $
 |4,39,7,32,1669773705,"~/app.java"
 -'  7  32  ~/app.java
 |4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  7  32  ~/app.java
+|4,39,7,32,1669773705,"~/app.java"
+-'  1  0  ~/app.java
+|4,39,1,0,1669773678,"~/app.java"
+-'  1  0  ~/app.java
+|4,39,1,0,1669773678,"~/app.java"
 -'  1  0  ~/app.java
 |4,39,1,0,1669773678,"~/app.java"
 -'  1  0  ~/app.java
@@ -162,6 +252,10 @@ $
 |4,39,1,0,1669773678,"~/app.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/rebase-merge/git-rebase-todo
+	*	1669992216	0
+	"	2	0
 
 > ~/java.txt/java.txt
 	*	1669852383	0
