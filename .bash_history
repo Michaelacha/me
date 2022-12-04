@@ -271,3 +271,33 @@ git fetch tt master:tmp
 git fetch me master:tmp
 extit
 exit
+git status
+git add .
+git commit -m "good morning"
+git status
+git pull
+git pull tt master
+git push tt master
+git pull
+git pull tt master
+git status
+mkdir chris
+vi chris
+git status
+vi app.java
+git add .
+git status
+git commit -m "tomorrow is monday"
+git pull tt master
+git push tt master
+git log
+git status
+git commmit -m 
+git push tt master
+git branch
+git push tt tmp
+git pull tt master
+git push tt master
+git push tt master
+git status
+git push tt master
