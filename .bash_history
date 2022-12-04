@@ -218,3 +218,21 @@ git pull --all
 git pull tt master
 git fetch tt master:tmp
 git push tt master
+git pull
+git pull remote master
+git pull https://github.com/Michaelacha/me.git
+git status
+git add .
+git commit -m "new trial"
+git push https://github.com/Michaelacha/me.git master
+git push https://github.com/Michaelacha/me master
+git help error: failed to push some refs to 'https://github.com/Michaelacha/me'
+git reset
+git status
+git rebase --continue
+git push tt master
+git push https://github.com/Michaelacha/me master
+git push HEAD -f
+git fetch
+git rebase -i origin/master
+git pull --rebase origin master
