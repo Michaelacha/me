@@ -17,14 +17,14 @@
 $
 
 # Command Line History (newest to oldest):
+:w!
+|2,0,1670171564,,"w!"
 :q!
 |2,0,1670167918,,"q!"
 :d
 |2,0,1670167873,,"d"
 :wq!
 |2,0,1670167704,,"wq!"
-:w!
-|2,0,1670125401,,"w!"
 :qa
 |2,0,1669852293,,"qa"
 :ZZ
@@ -73,36 +73,82 @@ $
 |3,0,8,1,1,0,1670167719,"./                               0 Wed 30 Nov 2022 02:01:33 AM UTC"
 
 # File marks:
-'0  6  9  ~/app.java
-|4,48,6,9,1670167918,"~/app.java"
-'1  8  0  ~/chris
-|4,49,8,0,1670167817,"~/chris"
-'2  3  0  ~/Philo/philo
-|4,50,3,0,1670125457,"~/Philo/philo"
-'3  3  0  ~/Philo/philo
-|4,51,3,0,1670125427,"~/Philo/philo"
-'4  4  0  ~/Philo/Philo
-|4,52,4,0,1670125343,"~/Philo/Philo"
-'5  4  0  ~/Philo/man
-|4,53,4,0,1670125225,"~/Philo/man"
-'6  3  0  ~/.git/COMMIT_EDITMSG
-|4,54,3,0,1670085980,"~/.git/COMMIT_EDITMSG"
-'7  2  0  ~/.git/rebase-merge/git-rebase-todo
-|4,55,2,0,1669992226,"~/.git/rebase-merge/git-rebase-todo"
-'8  3  15  ~/java.txt/java.txt
-|4,56,3,15,1669852393,"~/java.txt/java.txt"
-'9  1  0  ~/.git/COMMIT_EDITMSG
-|4,57,1,0,1669852293,"~/.git/COMMIT_EDITMSG"
+'0  1  11  ~/john
+|4,48,1,11,1670171627,"~/john"
+'1  2  0  ~/John
+|4,49,2,0,1670171574,"~/John"
+'2  6  9  ~/app.java
+|4,50,6,9,1670167918,"~/app.java"
+'3  8  0  ~/chris
+|4,51,8,0,1670167817,"~/chris"
+'4  3  0  ~/Philo/philo
+|4,52,3,0,1670125457,"~/Philo/philo"
+'5  3  0  ~/Philo/philo
+|4,53,3,0,1670125427,"~/Philo/philo"
+'6  4  0  ~/Philo/Philo
+|4,54,4,0,1670125343,"~/Philo/Philo"
+'7  4  0  ~/Philo/man
+|4,55,4,0,1670125225,"~/Philo/man"
+'8  3  0  ~/.git/COMMIT_EDITMSG
+|4,56,3,0,1670085980,"~/.git/COMMIT_EDITMSG"
+'9  2  0  ~/.git/rebase-merge/git-rebase-todo
+|4,57,2,0,1669992226,"~/.git/rebase-merge/git-rebase-todo"
 
 # Jumplist (newest first):
+-'  1  11  ~/john
+|4,39,1,11,1670171627,"~/john"
+-'  2  0  ~/John
+|4,39,2,0,1670171574,"~/John"
+-'  2  0  ~/John
+|4,39,2,0,1670171574,"~/John"
+-'  1  0  ~/John
+|4,39,1,0,1670171511,"~/John"
+-'  1  0  ~/John
+|4,39,1,0,1670171511,"~/John"
 -'  6  9  ~/app.java
 |4,39,6,9,1670167918,"~/app.java"
+-'  6  9  ~/app.java
+|4,39,6,9,1670167918,"~/app.java"
+-'  6  9  ~/app.java
+|4,39,6,9,1670167918,"~/app.java"
+-'  6  9  ~/app.java
+|4,39,6,9,1670167918,"~/app.java"
+-'  1  9  ~/app.java
+|4,39,1,9,1670167882,"~/app.java"
+-'  1  9  ~/app.java
+|4,39,1,9,1670167882,"~/app.java"
+-'  1  9  ~/app.java
+|4,39,1,9,1670167882,"~/app.java"
 -'  1  9  ~/app.java
 |4,39,1,9,1670167882,"~/app.java"
 -'  8  0  ~/chris
 |4,39,8,0,1670167817,"~/chris"
 -'  8  0  ~/chris
 |4,39,8,0,1670167817,"~/chris"
+-'  8  0  ~/chris
+|4,39,8,0,1670167817,"~/chris"
+-'  8  0  ~/chris
+|4,39,8,0,1670167817,"~/chris"
+-'  8  0  ~/chris
+|4,39,8,0,1670167817,"~/chris"
+-'  8  0  ~/chris
+|4,39,8,0,1670167817,"~/chris"
+-'  8  0  ~/chris
+|4,39,8,0,1670167817,"~/chris"
+-'  8  0  ~/chris
+|4,39,8,0,1670167817,"~/chris"
+-'  8  63  ~/chris
+|4,39,8,63,1670167645,"~/chris"
+-'  8  63  ~/chris
+|4,39,8,63,1670167645,"~/chris"
+-'  8  63  ~/chris
+|4,39,8,63,1670167645,"~/chris"
+-'  8  63  ~/chris
+|4,39,8,63,1670167645,"~/chris"
+-'  8  63  ~/chris
+|4,39,8,63,1670167645,"~/chris"
+-'  8  63  ~/chris
+|4,39,8,63,1670167645,"~/chris"
 -'  8  63  ~/chris
 |4,39,8,63,1670167645,"~/chris"
 -'  8  63  ~/chris
@@ -111,6 +157,30 @@ $
 |4,39,9,63,1670167643,"~/chris"
 -'  9  63  ~/chris
 |4,39,9,63,1670167643,"~/chris"
+-'  9  63  ~/chris
+|4,39,9,63,1670167643,"~/chris"
+-'  9  63  ~/chris
+|4,39,9,63,1670167643,"~/chris"
+-'  9  63  ~/chris
+|4,39,9,63,1670167643,"~/chris"
+-'  9  63  ~/chris
+|4,39,9,63,1670167643,"~/chris"
+-'  9  63  ~/chris
+|4,39,9,63,1670167643,"~/chris"
+-'  9  63  ~/chris
+|4,39,9,63,1670167643,"~/chris"
+-'  1  0  ~/chris
+|4,39,1,0,1670167625,"~/chris"
+-'  1  0  ~/chris
+|4,39,1,0,1670167625,"~/chris"
+-'  1  0  ~/chris
+|4,39,1,0,1670167625,"~/chris"
+-'  1  0  ~/chris
+|4,39,1,0,1670167625,"~/chris"
+-'  1  0  ~/chris
+|4,39,1,0,1670167625,"~/chris"
+-'  1  0  ~/chris
+|4,39,1,0,1670167625,"~/chris"
 -'  1  0  ~/chris
 |4,39,1,0,1670167625,"~/chris"
 -'  1  0  ~/chris
@@ -132,6 +202,66 @@ $
 -'  3  0  ~/Philo/philo
 |4,39,3,0,1670125457,"~/Philo/philo"
 -'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125457,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
 |4,39,3,0,1670125427,"~/Philo/philo"
 -'  3  0  ~/Philo/philo
 |4,39,3,0,1670125427,"~/Philo/philo"
@@ -147,154 +277,40 @@ $
 |4,39,3,0,1670125427,"~/Philo/philo"
 -'  3  0  ~/Philo/philo
 |4,39,3,0,1670125427,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  1  0  ~/Philo/philo
-|4,39,1,0,1670125357,"~/Philo/philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  4  0  ~/Philo/Philo
-|4,39,4,0,1670125343,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
--'  1  0  ~/Philo/Philo
-|4,39,1,0,1670125270,"~/Philo/Philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
+-'  3  0  ~/Philo/philo
+|4,39,3,0,1670125427,"~/Philo/philo"
 
 # History of marks within files (newest to oldest):
+
+> ~/john
+	*	1670171625	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/John
+	*	1670171573	0
+	"	2	0
+	^	2	0
+	.	1	38
+	+	1	38
 
 > ~/chris
 	*	1670167715	0
