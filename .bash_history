@@ -133,3 +133,88 @@ git master
 restore
 git restore
 git resore all
+clear
+git status
+git push tt master
+git remote -v
+git push tt master
+git pull
+gitbpull --rebase origin master
+gitbpull --rebase origin main
+git push origin main
+merge.autostash
+origin/main
+git reset
+git push tt master
+-force pushing
+git fetch tt main:tmp
+git fetch tt master:tmp
+git rebase tmp
+git push tt master
+error: failed to push some refs to 'origin'
+[ec2-user@ip-172-31-30-243 ~]$ merge.autostash
+-bash: merge.autostash: command not found
+[ec2-user@ip-172-31-30-243 ~]$ origin/main
+-bash: origin/main: No such file or directory
+[ec2-user@ip-172-31-30-243 ~]$ git reset
+Unstaged changes after reset:
+M       .bash_history
+git push tt master
+[ec2-user@ip-172-31-30-243 ~]$ merge.autostash
+-bash: merge.autostash: command not found
+[ec2-user@ip-172-31-30-243 ~]$ origin/main
+-bash: origin/main: No such file or directory
+[ec2-user@ip-172-31-30-243 ~]$ git reset
+Unstaged changes after reset:
+M       .bash_history
+git push tt master
+error: failed to push some refs to 'origin'
+[ec2-user@ip-172-31-30-243 ~]$ merge.autostash
+-bash: merge.autostash: command not found
+[ec2-user@ip-172-31-30-243 ~]$ origin/main
+-bash: origin/main: No such file or directory
+[ec2-user@ip-172-31-30-243 ~]$ git reset
+Unstaged changes after reset:
+M       .bash_history
+git status
+git add .
+git push tt master
+error: failed to push some refs to 'origin'
+[ec2-user@ip-172-31-30-243 ~]$ merge.autostash
+-bash: merge.autostash: command not found
+[ec2-user@ip-172-31-30-243 ~]$ origin/main
+-bash: origin/main: No such file or directory
+[ec2-user@ip-172-31-30-243 ~]$ git reset
+Unstaged changes after reset:
+M       .bash_history
+git push tt master
+git fetch tt master:tmp
+git rebase tmp
+git push tt master
+git status
+git fetch tt master:tmp
+git push tt master
+git push --help
+git push --all
+git push Michaelacha 
+git push --all
+git push tt master
+git pull --rebase origin master
+git commit -m "first commit"
+git pull --rebase origin master
+git status
+git commit --amend
+git push tt master
+git rebase tmp
+git fetch tt master
+git push tt master
+git status
+git add .
+git push tt master
+git add .
+git push tt master
+git pull -all
+git pull --all
+git pull tt master
+git fetch tt master:tmp
+git push tt master
