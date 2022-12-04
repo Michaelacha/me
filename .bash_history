@@ -236,3 +236,38 @@ git push HEAD -f
 git fetch
 git rebase -i origin/master
 git pull --rebase origin master
+git fetch alias main:tmp
+git rebase tmp
+git fetch alias maste
+git fetch tt master:tmp
+git rebase tmp
+git status
+git add
+git add .
+git status
+git rebase tmp
+git commit -m "new commit 2"
+git rebase tmp
+git push tt master
+mkdir
+mkdir Philo
+cd Philo
+git commit -m "good job mehn"
+vi man
+gi status
+git status
+vi Philo
+vi philo
+git status
+vi philo
+git init
+git status
+git add .
+git commit -m "you are doing great"
+git push tt master
+git push https://github.com/Michaelacha/me.git master
+git fetch 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 master:tmp
+git fetch tt master:tmp
+git fetch me master:tmp
+extit
+exit
